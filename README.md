@@ -14,7 +14,7 @@ Classifying 43 different classes of Traffic Signs with the help of CNNs.
 
 # Authors - Ayush Raj & Vikash Kumar Thakur
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
 **Ayush Raj**  
 
